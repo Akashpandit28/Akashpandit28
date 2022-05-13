@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akashpandit28
+- 👋 Hi, I’m Akash kumar pandit  
 - 👀 I’m interested in data analysis and many more
 - 🌱 I’m currently learning ml 
 - 💞️ I’m looking to collaborate on data analysis and that sort of things
