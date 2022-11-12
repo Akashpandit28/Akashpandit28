@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Akash kumar pandit  
 - 👀 I’m interested in data analysis and many more
 - 🌱 I’m currently learning ml 
-- 💞️ I’m looking to collaborate on data analysis and that sort of things
-- 📫 How to reach me bhoojho28@gmail.com / panditakash1967@gmail.com
+- 💞️ I’m looking to collaborate on things like devlopement ,data science and analytics
+- 📫 How to reach me ap6672@srmist.edu.in / panditakash1967@gmail.com
+- i
 
 <!---
 Akashpandit28/Akashpandit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
