@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ml 
 - 💞️ I’m looking to collaborate on things like devlopement ,data science and analytics
 - 📫 How to reach me ap6672@srmist.edu.in / panditakash1967@gmail.com
-- i
+- let me know if thier is something wrong and if u can correct it do that
 
 <!---
 Akashpandit28/Akashpandit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
