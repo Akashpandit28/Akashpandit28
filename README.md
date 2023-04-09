@@ -2,8 +2,8 @@
 - 👀 I’m interested in data analysis and many more
 - 🌱 I’m currently learning ml 
 - 💞️ I’m looking to collaborate on things like devlopement ,data science and analytics
-- 📫 How to reach me ap6672@srmist.edu.in / panditakash1967@gmail.com
-- let me know if thier is something wrong and if u can correct it do that
+- 📫 How to reach me ap6672@srmist.edu.in / akash02pandit@gmail.com
+- open to collaborate and help others.
 
 <!---
 Akashpandit28/Akashpandit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
