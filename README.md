@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash kumar pandit  
-- 👀 I’m interested in data analysis and many more
-- 🌱 I’m currently learning ml 
+- 👀 I’m interested in data Science ,ML,AI.
+- 🌱 Working on projects 
 - 💞️ I’m looking to collaborate on things like devlopement ,data science and analytics
 - 📫 How to reach me ap6672@srmist.edu.in / akash02pandit@gmail.com
 - open to collaborate and help others.
