@@ -68,97 +68,47 @@
 </p>
  -->
 
- <div align="center">
+<div align="center">
 
-# Hi, I'm Akash Kumar Pandit 👋
+# Hi, I'm Akash 👋
 
 ### Data Science Engineer · Machine Learning · Energy Analytics
 
-I build data pipelines, forecasting models, and analytics tools that turn large operational datasets into useful decisions.
+**I turn large time-series data into faster pipelines and better predictions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-pandit/)
-[![GitHub](https://img.shields.io/badge/GitHub-Akashpandit28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashpandit28)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkpandit10@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+### ⚡ Impact
 
-- Data Science Engineer at **Racanaa Energy**, working on energy analytics and forecasting.
-- Optimized pipelines for **10M+ time-series records**, reducing data processing time by **40%**.
-- Built data pipelines powering **5+ Metabase dashboards** and model APIs in an environment handling around **400 GB of data daily**.
-- Interested in time-series forecasting, predictive maintenance, and applied machine learning.
-- B.Tech in Computer Science & Engineering (Big Data Analytics), **SRM Institute of Science and Technology** · **CGPA: 8.74**.
+| **10M+ records** | **40% faster processing** | **5+ dashboards** | **~400 GB daily data environment** |
+|:---:|:---:|:---:|:---:|
 
-## Tech Stack
-
-### Languages & Data
+### 🧰 Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Machine Learning & Analytics
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-### Engineering & Deployment
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
-**Also:** Time-series analysis · Regression · Decision Trees · Random Forest · Gradient Boosting · RNNs · Feature Engineering · Cross-validation · Hypothesis Testing · ETL · Playwright · BeautifulSoup · Excel
+**Focus:** Forecasting · Time Series · Machine Learning · Data Pipelines
 
-## Featured Projects
+### 🚀 Featured Work
 
-### Turbofan Engine Degradation — Remaining Useful Life Prediction
+- **Turbofan RUL Prediction** — RNN model; improved prediction accuracy **18% over a 60% baseline**. Research published in IEEE Xplore.
+- **Ensemble Forecasting** — Random Forest + Gradient Boosting; **12% better predictive accuracy** than baseline models.
 
-Built an end-to-end RNN pipeline using NASA turbofan engine sensor time series to predict remaining useful life. Improved prediction accuracy by **18% over a 60% baseline** through exploratory analysis, feature engineering, and model validation. Research published in IEEE Xplore.
+### 💼 Now
 
-### Ensemble Modeling for Forecasting
-
-Developed a Random Forest and Gradient Boosting ensemble with feature engineering and k-fold cross-validation, improving predictive accuracy by **12% over baseline models** while reducing overfitting.
-
-## Experience
-
-**Data Science Engineer · Racanaa Energy** — Bengaluru, India  
-*June 2026 – Present*
-
-- Optimized Python, Pandas, and SQL pipelines for 10M+ time-series records, reducing processing time by 40%.
-- Built and maintained data pipelines for 5+ Metabase dashboards, collaborating with teams to track business KPIs.
-- Deployed FastAPI applications serving model predictions in a data environment handling approximately 400 GB daily.
-- Developed energy forecasting models using Decision Trees and Random Forests, from preprocessing through evaluation.
-
-**Data Science Intern · Racanaa Energy** — Bengaluru, India  
-*September 2025 – June 2026*
-
-- Built Metabase dashboards on MySQL pipelines and performed exploratory and statistical analysis for energy analytics.
-- Validated production data pipelines for quality and consistency for downstream forecasting.
-- Created web-scraping pipelines with Playwright, BeautifulSoup, and Requests, loading collected data into MySQL.
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akashpandit28&show_icons=true&hide_border=true&rank_icon=github" alt="Akash's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpandit28&layout=compact&hide_border=true" alt="Most used languages" />
-
-</div>
-
----
-
-<div align="center">
-
-Open to connecting with people working in data science, machine learning, and energy analytics.
+**Data Science Engineer @ Racanaa Energy** · Bengaluru  
+Building forecasting models and FastAPI services in an environment handling **~400 GB of data daily**.
 
 </div>
